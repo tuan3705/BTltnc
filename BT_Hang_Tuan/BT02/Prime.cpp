@@ -15,4 +15,5 @@ int main()
     cin>>n;
     if(prime(n)) cout<<"yes";
     else cout<<"no";
+    return 0;
 }
